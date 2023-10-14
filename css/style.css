@@ -6,7 +6,7 @@ body{
    height: 100vh;
 }
 
-.onbarding-cover{
+.onbarding-cover .registration-cover{
     height: 100%;
     display: flex;
     align-items: center;
